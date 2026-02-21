@@ -57,7 +57,3 @@ If you prefer to run locally instead of using Codespaces:
    uv sync
    uv run marimo edit
    ```
-
-## Need Help?
-
-Post on the course discussion board or come to office hours.
